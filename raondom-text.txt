@@ -1,2 +1,0 @@
-This is the random text before initiating git repo.
-Lets add some more text to the first version.
